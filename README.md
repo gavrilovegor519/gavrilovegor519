@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @gavrilovegor519
-- 👀 I’m interested in Java
+- 👀 I’m interested in enterprise
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on GitHub
-- 📫 How to reach me [nothing]
 
 <!---
 gavrilovegor519/gavrilovegor519 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
