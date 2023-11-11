@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Egor Gavrilov. I'm 18. I'm from Russia. I'm learning Java and Frontend.
+My name is Egor Gavrilov. I'm 18. I'm from Russia. I'm learning Java.
 
 #### Contact me:
 - Telegram: [@gavrilovegor519](https://t.me/gavrilovegor519)
