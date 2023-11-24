@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Egor Gavrilov. I'm 18. I'm from Kstovo, Nizhegorodskaya oblast, Russian Federation. I'm learning Java.
+My name is Egor Gavrilov. I'm 18. I'm from Kstovo, Nizhegorodskaya oblast, Russian Federation. I'm learned Java, Spring, Hibernate, etc.
 
 #### Contact me:
 - Telegram: [@gavrilovegor519](https://t.me/gavrilovegor519)
