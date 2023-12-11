@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Egor Gavrilov. I'm from Kstovo, **Nizhegorodskaya oblast, Russian Federation**. I'm learned **Java, Spring, Hibernate, etc**.
+My name is Egor Gavrilov. I'm from Kstovo, **Nizhegorodskaya oblast, Russian Federation**. I'm learned **Java, Spring, Hibernate, Linux, Docker, some libraries (Mapstruct, Lombok)**.
 
 I'm student at **MVEU/MVEK (secondary professional education)**.
 
