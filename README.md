@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Egor Gavrilov. I'm from **Kstovo, Nizhegorodskaya oblast, Russian Federation**. I'm learned **Java, Spring, Hibernate, Linux, Docker, some libraries (Mapstruct, Lombok)**.
+My name is Egor Gavrilov. I'm from **Kstovo, Nizhegorodskaya oblast, Russian Federation**. I'm learned **Java, Spring, JPA, Linux, Docker, some libraries (Mapstruct, Lombok)**.
 
-Also I'm learning React and Node.js at secondary professional school.
+Also I'm learning **frontend (React and Node.js)** at secondary professional school.
 
 I'm student at **MVEU/MVEK (secondary professional education)**.
 
