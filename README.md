@@ -4,6 +4,8 @@ My name is Egor Gavrilov. I'm from **Kstovo, Nizhegorodskaya oblast, Russian Fed
 
 I have a YouTube channel ([@gavrilovegor519](https://youtube.com/@gavrilovegor519)), dedicated to Linux (especially older and lightweight distros).
 
+I like Linux, because it a best OS for Docker and some other applications. Plus because GNOME is beautiful (and blurry with one good extension) :)
+
 Also I'm learning **frontend (React and Node.js)** at secondary professional school.
 
 I'm student at **MVEU/MVEK (secondary professional education)**.
