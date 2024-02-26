@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Egor Gavrilov. I'm from **Kstovo, Nizhegorodskaya oblast, Russian Federation**. I'm learned **Java, Spring, JPA, Linux, Docker, some libraries (Mapstruct, Lombok)**.
+My name is Egor Gavrilov. I'm from **Kstovo, Nizhegorodskaya oblast, Russian Federation**. I'm learned **Java, Spring, JPA, SQL (very basically), Linux, and Docker**.
 
 I have a YouTube channel ([@gavrilovegor519](https://youtube.com/@gavrilovegor519)), dedicated to Linux (especially older and lightweight distros).
 
