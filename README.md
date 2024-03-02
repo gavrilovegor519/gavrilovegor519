@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Egor Gavrilov. I'm from **Kstovo, Nizhegorodskaya oblast, Russian Federation**. My stack - **Java, Spring, JPA, SQL (very basically), Linux, and Docker**.
+My name is Egor Gavrilov. I'm from **Kstovo, Nizhegorodskaya oblast, Russian Federation**. My stack - **Java, Spring, JPA/Hibernate, SQL (very basically), Linux, and Docker**.
 
 I have a YouTube channel ([@gavrilovegor519](https://youtube.com/@gavrilovegor519)), dedicated to Linux (especially older and lightweight distros).
 
