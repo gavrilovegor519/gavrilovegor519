@@ -1,0 +1,9 @@
+# VS Code
+.vscode/
+.history/
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
