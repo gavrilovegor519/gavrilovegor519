@@ -13,4 +13,4 @@ I have a YouTube channel ([@gavrilovegor519](https://youtube.com/@gavrilovegor51
 
 - Telegram: [@gavrilovegor519](https://t.me/gavrilovegor519)
 - VK (Russian social network): [@gavrilovegor519](https://vk.com/gavrilovegor519)
-- My homepage on the Internet: [егоргаврилов.рф](https://егоргаврилов.рф/)
+- My homepage on the Internet: [gavrilovegor519.ru](https://gavrilovegor519.ru/)
