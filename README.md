@@ -10,3 +10,4 @@ I have a YouTube channel ([@gavrilovegor519](https://youtube.com/@gavrilovegor51
 
 - Telegram: [@gavrilovegor519](https://t.me/gavrilovegor519)
 - My homepage on the Internet: [gavrilovegor519.ru](https://gavrilovegor519.ru/)
+- Gist: <https://gist.github.com/gavrilovegor519>
