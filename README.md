@@ -13,3 +13,4 @@ Also I'm youngest FidoNet sysop in Russia ([proof 1](https://nodehist.wfido.ru/i
 - Telegram: [@gavrilovegor519](https://t.me/gavrilovegor519)
 - My homepage on the Internet: [gavrilovegor519.ru](https://gavrilovegor519.ru/)
 - Gist: <https://gist.github.com/gavrilovegor519>
+- FidoNet: 2:5015/519
