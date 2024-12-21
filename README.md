@@ -8,6 +8,8 @@ I have a YouTube channel ([@gavrilovegor519](https://youtube.com/@gavrilovegor51
 
 Also I'm youngest FidoNet sysop in Russia ([proof 1](https://nodehist.wfido.ru/index.cgi?address=2%3A5015%2F519), [proof 2](https://vk.com/wall-3857_5838)), with node address 2:5015/519.
 
+Also I'm fixed some problems in FidoIP, and make a FidoIP-NG - enhanced fork of FidoIP, with some additions for automate FidoNet node and point deployment. This fork it is just being used in my node.
+
 ## Contact me
 
 - Telegram: [@gavrilovegor519](https://t.me/gavrilovegor519)
