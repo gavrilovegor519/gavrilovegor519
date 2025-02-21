@@ -2,7 +2,7 @@
 
 My name is Egor Gavrilov.
 I'm from **Russian Federation**.
-My stack - **Java 17, Spring 5/6 (Web/Data JPA/Security), SQL, Linux, and Docker**.
+My stack - **Java 21, Spring 6 (Spring Boot 3), JPA, SQL, Linux, and Docker**.
 
 I have a YouTube channel ([@gavrilovegor519](https://youtube.com/@gavrilovegor519)), **dedicated to Unix-like OSes and my life**.
 
